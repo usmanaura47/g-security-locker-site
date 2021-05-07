@@ -140,7 +140,7 @@ downloads: false
 		</div>
 		<div class="w3-third w3-padding">
 			<div class="w3-card-2">
-				<a href="https://g-security.software.informer.com/" target="_blank"><img border="0" src="https://img.informer.com/awards/si-award-clean.png" alt="Software Informer Virus Free award"  /></a>
+				<a href="https://g-security.software.informer.com/" target="_blank"><img border="0" src="https://img.informer.com/awards/si-award-clean.png" alt="Software Informer Virus Free award" height="170" width="170" /></a>
 				<div class="w3-container w3-white">
 					<h4>Software Informer Award</h4>
 				</div>
